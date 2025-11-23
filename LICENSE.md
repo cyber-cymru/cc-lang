@@ -1,22 +1,22 @@
-# Cyber Cymru PRODUCT License
+# Cyber Cymru Lang License
 **Copyright © 2025 Cyber Cymru**
 
 ---
 
 ## 1. Overview
-This license governs the use of the Cyber Cymru PRODUCT (the **“CC PRODUCT”**).  
-The CC PRODUCT includes source code, tools, documentation, design systems, and any other materials distributed under this license.
+This license governs the use of the Cyber Cymru Lang (the **“CC Lang”**).  
+The CC Lang includes source code, tools, documentation, design systems, and any other materials distributed under this license.
 
-By downloading, installing, or using the CC PRODUCT, you agree to the terms below.
+By downloading, installing, or using the CC Lang, you agree to the terms below.
 
 ---
 
 ## 2. License Grant
 Cyber Cymru grants you a **non-exclusive, non-transferable, revocable** license to:
 
-- Use the CC PRODUCT to **develop applications, prototypes, or tools**.
-- Modify the CC PRODUCT for your own internal use.
-- Distribute compiled applications created using the CC PRODUCT.
+- Use the CC Lang to **develop applications, prototypes, or tools**.
+- Modify the CC Lang for your own internal use.
+- Distribute compiled applications created using the CC Lang.
 
 Unless explicitly stated, **no ownership or intellectual property rights are transferred**.
 
@@ -25,18 +25,18 @@ Unless explicitly stated, **no ownership or intellectual property rights are tra
 ## 3. Restrictions
 You **may not**:
 
-- Redistribute the CC PRODUCT source code publicly unless granted written permission.  
-- Sell, license, or commercialize the CC PRODUCT itself.  
+- Redistribute the CC Lang source code publicly unless granted written permission.  
+- Sell, license, or commercialize the CC Lang itself.  
 - Remove, change, or obscure copyright notices.  
-- Claim the CC PRODUCT or its components as your own creation.  
-- Use the CC PRODUCT for malicious, harmful, or unlawful purposes.
+- Claim the CC Lang or its components as your own creation.  
+- Use the CC Lang for malicious, harmful, or unlawful purposes.
 
 ---
 
 ## 4. Commercial Use
-Applications built using the CC PRODUCT are **free to distribute**.
+Applications built using the CC Lang are **free to distribute**.
 
-If you earn revenue from products built using the CC PRODUCT, Cyber Cymru reserves the right to offer an optional **commercial license agreement** with different terms.
+If you earn revenue from Langs built using the CC Lang, Cyber Cymru reserves the right to offer an optional **commercial license agreement** with different terms.
 
 This commercial license is **not required** for hobby, educational, research, or non-profit use.
 
@@ -46,17 +46,17 @@ This commercial license is **not required** for hobby, educational, research, or
 Contributions, pull requests, feedback, or ideas submitted to Cyber Cymru:
 
 - Become the property of Cyber Cymru.  
-- May be used, modified, or integrated into the CC PRODUCT without obligation or compensation.  
+- May be used, modified, or integrated into the CC Lang without obligation or compensation.  
 
 (If this is not what you want, this section can be adjusted.)
 
 ---
 
 ## 6. Warranty Disclaimer
-The CC PRODUCT is provided **“as is”**, without warranty of any kind.  
+The CC Lang is provided **“as is”**, without warranty of any kind.  
 Cyber Cymru makes **no guarantees** about performance, security, reliability, or suitability for any purpose.
 
-You assume all risks associated with using the CC PRODUCT.
+You assume all risks associated with using the CC Lang.
 
 ---
 
@@ -69,7 +69,7 @@ Under no circumstances shall Cyber Cymru be liable for:
 - Loss of revenue or business  
 - System failures  
 
-Your use of the CC PRODUCT is entirely at your own risk.
+Your use of the CC Lang is entirely at your own risk.
 
 ---
 
@@ -77,10 +77,10 @@ Your use of the CC PRODUCT is entirely at your own risk.
 Cyber Cymru may terminate this license if you:
 
 - Violate any of its terms  
-- Attempt to misuse or misrepresent the CC PRODUCT  
+- Attempt to misuse or misrepresent the CC Lang  
 - Engage in harmful or malicious behavior  
 
-Upon termination, you must stop using the CC PRODUCT and delete all copies.
+Upon termination, you must stop using the CC Lang and delete all copies.
 
 ---
 
@@ -91,7 +91,7 @@ Any disputes must be resolved in UK courts.
 ---
 
 ## 10. Acceptance
-By installing, using, or interacting with the CC PRODUCT, you acknowledge that you have read, understood, and agreed to this license.
+By installing, using, or interacting with the CC Lang, you acknowledge that you have read, understood, and agreed to this license.
 
 ---
 
